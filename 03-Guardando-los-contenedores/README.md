@@ -6,7 +6,7 @@ tags: Docker,
 date_published: 2019-05-10
 ---
 
-# volumenes
+# Volumenes
 
 Una de las mas importantes funcionalidades de Docker son los volúmenes.
 
@@ -357,3 +357,6 @@ Existe gran variedad de plugins para poder conectar con nuestro almacenamiento y
 
 Desde la versión 17.03 de Docker existen los “Plugins Certificados”. Esto supone que Docker Inc, certifica estos desarrollos de los fabricantes en la infraestructura Docker de manera que tendremos el aseguramiento y soporte de ambos para su correcto funcionamiento. Como no podría ser de otra forma, dentro de los plugins certificados, los de almacenamiento son de gran importancia porque muestran el compromiso de los fabricantes con la plataforma Docker.
 
+# Docker registry privado
+
+[https://github.com/JorgeHernandezRamirez/DockerRegistry]
